@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 Hello and welcome!
 
-<!--
-**SwethaHolla/SwethaHolla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Swetha Holla, currently pursuing my MSc in Data Science at the University of Glasgow. I'm in the final phase of my degree, working on projects that combine data analysis and machine learning. To develop a predictive model for horse racing outcomes using pre-race features and betting data to identify winning patterns.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Before this, I worked as a software engineer, and now I’m passionate about using data to understand real-world problems — from financial trends to community behavior online.
+---
+## What I'm into
+- Making sense of messy data  
+- Building ML and NLP-driven tools  
+- Visualising insights that tell a story  
+- Exploring AI in finance, social media, and beyond  
+- Writing clean, practical Python code
+---
+## Let’s connect!
+I'm open to research collaborations, internships, or just good conversations about AI, tech, or data.  
+- 📬 Email: uswethaholla@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/swetha-holla-u](https://www.linkedin.com/in/swetha-holla-u/)
+  
+Thanks for stopping by!

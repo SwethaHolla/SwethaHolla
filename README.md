@@ -1,6 +1,6 @@
 ## 👋 Hello and welcome!
 
-I'm Swetha Holla, currently pursuing my MSc in Data Science at the University of Glasgow. I'm in the final phase of my degree, working on my dissertation project that combine data analysis and machine learning. To develop a predictive model for horse racing outcomes using pre-race features and betting data to identify winning patterns.
+I'm Swetha Holla, I am a Data Science graduate from the University of Glasgow and a data science consultant. I'm in the final phase of my degree, working on my dissertation project that combine data analysis and machine learning. To develop a predictive model for horse racing outcomes using pre-race features and betting data to identify winning patterns.
 
 Before this, I worked as a software engineer, and now I’m passionate about using data to understand real-world problems — from financial trends to community behavior online.
 ---
